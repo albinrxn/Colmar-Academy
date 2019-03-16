@@ -1,0 +1,30 @@
+/*overall*/
+
+
+
+/*header*/
+  header {
+    height: 64px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: white;
+  }
+
+  .navigation-bar {
+    display: flex;
+    align-items: center;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+
+  img {
+    height: 32px;
+  }
+
+  nav span {
+    margin-left: 16px;
+  }
